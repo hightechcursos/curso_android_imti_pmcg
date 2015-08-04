@@ -1,3 +1,8 @@
 <resources>
     <string name="app_name">Cursoimti</string>
+    <string name="botao01">Botão 1</string>
+    <string name="botao02">Botão 2</string>
+    <string name="botao03">Botão 3</string>
+    <string name="botao04">Botão 4</string>
+
 </resources>
